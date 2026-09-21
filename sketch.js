@@ -110,7 +110,7 @@ function displayStartScreen() {
   
   fill('white'); 
   textSize(15); 
-  text('• Catch GOLD balls (+1 pt)\n• Avoid BLACK balls (-3 pts)\n• Missing 3 GOLD balls in a row \n OR \n reaching 0 points = Game Over', 200, 230);  
+  text('• Catch apples (+1 pt)\n• Avoid rotten apples (-3 pts)\n• Miss 3 apples in a row \n OR \n reaching 0 points = Game Over', 200, 230);  
   
   text('Controls:\n• Left/Right Arrows: Move\n• Shift: Dash\n• Keys Z, X, C: Power-ups', 200, 350);  
   
